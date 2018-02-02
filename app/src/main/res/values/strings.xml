@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">CommonBottomDemo</string>
+    <string name="fragment_movie_movie">"电影"</string>
+    <string name="fragment_movie_tv">"电视剧"</string>
+
+
+    <string-array name="tab_names">
+        <item>热映中</item>
+        <item>未上映</item>
+        <item>已下线</item>
+    </string-array>
+    <string-array name="tab_names_star">
+        <item>热门明星</item>
+        <item>我的关注</item>
+    </string-array>
+    <!--热映-->
+    <string name="item_movie_type">"科幻 冒险 爱情"</string>
+    <string name="item_movie_title">"太空旅客"</string>
+    <!--未上映-->
+    <string name="item_movie_title2">"大闹天竺"</string>
+    <string name="item_movie_introduce2">"宝强取真经"</string>
+    <!--已下线-->
+    <string name="item_movie_title3">"萨利机长"</string>
+    <string name="item_movie_time">"2016年12月9日上映"</string>
+    <string name="item_movie_introduce3">"命悬高空 危机迫降"</string>
+    <string name="item_movie_type3">"剧情 灾难"</string>
+
+    <!--电影详情-->
+    <string name="item_movie">"视频"</string>
+    <string name="item_movie_pic">"图片"</string>
+
+    <string name="item_movie_title4">"太空旅客太空旅客太空旅客太空旅客太空旅客太空旅客太空旅客"</string>
+
+    <!--顶部标题文字内容-->
+    <string name="all_comment">全部评论</string>
+    <string name="news_detail">新闻详情</string>
+
+    <!--主界面-->
+    <string name="main_tab1">首页</string>
+    <string name="main_tab2">明星</string>
+    <string name="main_tab3">AR</string>
+    <string name="main_tab4">影视</string>
+    <string name="main_tab5">我的</string>
+
+    <string name="viewpager_indicator">%1$d/%2$d</string>
+
+
+    <!-- ar-->
+    <string name="start_scan">开始</string>
+    <string name="stop_scan">结束</string>
+    <string name="discover_page">发现</string>
+
+    <string name="frag_list_no_content">there is no content</string>
+    <string name="discover_close">返回</string>
+
+    <string name="activity_in_right">right in</string>
+    <string name="activity_in_bottom">bottom in</string>
+    <string name="activity_title">user viewcontroller</string>
+    <string name="activity_content">user ui</string>
+
+    <string name="tv_support_theme_move">支持移动%1$s</string>
+    <string name="tv_support_theme_scale">支持缩放%1$s</string>
+    <string name="tv_support_theme_rotate">支持旋转%1$s</string>
+    <string name="tv_support_theme_reset">重置姿态</string>
+    <string name="tv_support_theme_gyroscope">自由模式%1$s</string>
+    <string name="tv_support_open">开</string>
+    <string name="tv_support_close">关</string>
+</resources>

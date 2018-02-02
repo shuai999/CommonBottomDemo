@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cube_ptr="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <include layout="@layout/layout_title"/>
+
+    <RadioGroup
+        android:id="@+id/rg"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:button="@null"
+            android:gravity="center"
+            android:text="第一个"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:button="@null"
+            android:gravity="center"
+            android:text="第二个"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:button="@null"
+            android:gravity="center"
+            android:text="第三个"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <!--<RadioButton-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_marginLeft="1dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:background="#FFFFFF"-->
+            <!--android:button="@null"-->
+            <!--android:gravity="center"-->
+            <!--android:text="第四个"-->
+            <!--android:textColor="#000000"-->
+            <!--android:textSize="18sp" />-->
+    </RadioGroup>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v4.view.ViewPager>
+
+
+
+    <!--<TextView-->
+        <!--android:id="@+id/textview"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="@dimen/px88"-->
+        <!--android:background="@color/transparent"-->
+        <!--android:gravity="center|bottom"-->
+        <!--android:paddingBottom="10dp"-->
+        <!--android:text="第二个fragment"-->
+        <!--android:textColor="@color/default_set_bg"-->
+        <!--android:textSize="18sp" />-->
+</LinearLayout>

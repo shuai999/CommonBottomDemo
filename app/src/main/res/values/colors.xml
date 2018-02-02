@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="yellow">#ff6c00</color>
+    <color name="white">#fff</color>
+    <color name="app_backgroud">#30313c</color>
+    <color name="app_backgroud1">#3c3c48</color>
+    <color name="app_backgroud2">#191a25</color>
+    <color name="app_black">#30313c</color>
+    <color name="text_color_normal">#b7b7b7</color>
+    <color name="text_color_normal1">#dbdbdb</color>
+    <color name="text_color_normal2">#666</color>
+    <color name="text_color_button">#2b2b2b</color>
+    <color name="touming">#8fff</color>
+    <color name="black">#000</color>
+    <color name="gray">#999</color>
+    <color name="hui">#333</color>
+    <color name="tittl">#f00156</color>
+    <color name="bilod">#da0656</color>
+    <color name="grayf2">#f2f2f2</color>
+    <color name="grye1">#e1e1e1</color>
+    <color name="hui66">#666</color>
+    <color name="bg">#e1e1e1</color>
+
+    <!--影视圈中的颜色-->
+    <color name="fragment_movie">#ff6b00</color>
+    <color name="bg_pager_tab">#eaeaea</color>
+    <color name="bg_tab_normal">#00000000</color>
+    <color name="bg_normal">#ff6b00</color>
+    <color name="hui_2">#333</color>
+    <color name="bg_fenge">#9c9c9c</color>
+
+    <color name="bg_gray">#f2f2f2</color>
+    <color name="bg_black">#000000</color>
+    <color name="bg_comment">#e1e1e1</color>
+    <color name="bg_gray2">#bfbfbf</color>
+    <color name="bg_divider">#434343</color>
+    <color name="bg_divider1">#e1e1e1</color>
+    <color name="bg_divier_color">#3c3c48</color>
+    <!--webview的分享中的取消-->
+    <color name="webview_cancle_default">#ffffff</color>
+    <color name="webview_cancle_press">#f8f8f8</color>
+
+    <color name="comment_name">#ff8600</color>
+    <color name="comment_rectangle_kuang">#f9f9f9</color>
+    <color name="color_text">#2e354b</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="bg_edit_hint">#abadb3</color>
+    <color name="dialog_nickname">#aeaeae</color>
+    <color name="dialog_view">#ff2b57</color>
+    <color name="dialog_confirm">#0077ff</color>
+    <!-- ar_home -->
+    <color name="ar_bg">#1b1a20</color>
+    <color name="all_bg">#f2f2f2</color>
+
+    <color name="main_tab_select">#ff6b00</color>
+    <color name="main_tab_normal">#333333</color>
+
+    <!--ar_bg-->
+    <color name="gray_transparent">#D5D5D280</color>
+    <color name="default_set_bg">#1e1e20</color>
+    <color name="color_char_slide_select_bg">#FAB621</color>
+
+    <color name="background_tab_pressed">#30313c</color>
+    <color name="tab_bg">#30313c</color>
+</resources>
